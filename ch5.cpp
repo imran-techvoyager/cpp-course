@@ -28,7 +28,9 @@ int main(){
             cout<<"you are an adult and allowed to the party with adults pass"<<endl;
          }
 
-        //  switch case statment 
+        //  switch case statment
+        /*in switch case statments(scs) only integer and character values are allowed
+          in scs in case: we cannot use range of value or conditions instead only values*/ 
         int marks;
         cout<<"enter your marks";
         cin>>marks;
